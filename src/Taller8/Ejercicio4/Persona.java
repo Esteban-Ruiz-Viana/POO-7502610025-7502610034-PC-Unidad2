@@ -1,4 +1,4 @@
-package Ejercicio4;
+package Taller8.Ejercicio4;
 
 class Persona {
     private String nombre = "Fernanda";
