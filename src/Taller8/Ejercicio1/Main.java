@@ -1,4 +1,4 @@
-package Ejercicio1;
+package Taller8.Ejercicio1;
 
 class Main {
     public static void main(String[] args) {

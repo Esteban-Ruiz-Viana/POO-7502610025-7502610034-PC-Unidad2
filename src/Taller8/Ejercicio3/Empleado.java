@@ -1,4 +1,4 @@
-package Ejercicio3;
+package Taller8.Ejercicio3;
 
 public class Empleado {
     String nombre;
